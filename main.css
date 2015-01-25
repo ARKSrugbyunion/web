@@ -22,12 +22,35 @@
 }
 
 body {
-    background-color:#191919
+    background-color:#191919;
+    background: url(http://2.bp.blogspot.com/-kUw4115eL9M/UiAQSBgDxVI/AAAAAAAAIlE/8hFJl4zFJZo/s1600/Background-Red4.jpg) #f6f1b9 fixed top right;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
-.container {
-    background-color:#8C001A
+#main {
+ background-image:url(/media/winners.jpg)
+    
 }
+
+jumbotron {
+    background-color:rgba(255,255,255,0.6);
+    
+}
+
+#main .jumbotron{
+     background-color:rgba(255,255,255,0.6);
+}
+
+html { 
+  background: url(media/Background-Red4.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+
 
 .nav-top {
     background-color:#191919;
@@ -75,7 +98,8 @@ img {
 }
 
 .jumbotron {
-    background-color:#D8D8D8
+    background-color:#D8D8D8;
+
 }
 
 .pink {
